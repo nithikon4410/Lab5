@@ -20,5 +20,4 @@ int main(){
     cout << "#Even numbers = "<<a<<endl;
     cout << "#Odd numbers = "<<b;
     return 0;
-    //GG
 }
